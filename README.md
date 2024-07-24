@@ -21,7 +21,7 @@ Welcome to the Chandak Ecommerce Project! This Project aims at building a platfo
 - Backend: Node.js, Express.js
 - Database: MongoDB
 - Authentication: JSON Web Tokens (JWT)
-- Payment Integration: Stripe
+- Payment Integration: Razorpay (not deployed yet)
 
 ## Some of the glimses of the frontend 
 
